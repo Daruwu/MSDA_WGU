@@ -5,7 +5,7 @@ With my Bachelors in Biology and a Masters in Data Analytics, I want to combine 
 
 The following projects are from my time in the Master of Science in Data Analytics at Western Governors University from October 2022 through October 2023.
 
-# Table of Contents
+# Contents
 |                     Class Summary                     | 
 |:-----------------------------------------------------:|
 |        [D206: Data Cleaning](./D206/Summary.md)       |          
