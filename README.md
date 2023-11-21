@@ -1,7 +1,7 @@
 # MSDA WGU
 ![WGU Header](./images/wguheader.png)
 # My Goals
-With my Bachelor's in Biology and a Master's in Data Analytics, I want to combine my two understandings and apply them into becoming a bioinformatician. Even at my age, I wish to grow, gather, and learn the tools I need to reach this goal of mine. With these projects from Western Governors University, I hope that my personal pioneering into this field can be noticed and that my character can be shown.
+Possessing a Bachelor's degree in Biology and a Master's degree in Data Analytics, I aspire to synergize these two areas of expertise by pursuing a career as a bioinformatician. I am committed to personal and professional growth, actively seeking to acquire the requisite skills and knowledge essential to achieving my goal. Concurrently, I am eager to garner practical experience through meaningful employment opportunities, strategically positioning myself to achieve my ultimate career objective. The projects undertaken at Western Governors University serve not only as a testament to my technical prowess but also as a platform to demonstrate the depth of my professional character in the pursuit of excellence within the realm of bioinformatics.
 
 The following projects are from my time in the Master of Science in Data Analytics at Western Governors University from October 2022 through October 2023.
 
