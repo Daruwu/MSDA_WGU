@@ -21,7 +21,7 @@ The following projects are from my time in the Master of Science in Data Analyti
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/darien-nguyen-5071a9185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/darien-nguyen-5071a9185" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/darien nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darien nguyen" height="30" width="40" /></a>
 <a href="https://kaggle.com/daruwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="daruwu" height="30" width="40" /></a>
 </p>
 
