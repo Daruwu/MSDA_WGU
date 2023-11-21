@@ -8,12 +8,12 @@ The following projects are from my time in the Master of Science in Data Analyti
 # Table of Contents
 |                     Class Summary                     | Task/Project Name | Project Video | Class Writeup |
 |:-----------------------------------------------------:|:-----------------:|:-------------:|:-------------:|
-|        [D206: Data Cleaning](./D206/summary.md)       |                   |               |               |
-|  [D207: Exploratory Data Analysis](./D207/summary.md) |                   |               |               |
-|     [D208: Predictive Modeling](./D208/summary.md)    |                   |               |               |
-|        [D209: Data Mining I](./D209/summary.md)       |                   |               |               |
-| [D210: Representation & Reporting](./D210/summary.md) |                   |               |               |
-|  [D211: Advanced Data Acquisition](./D211/summary.md) |                   |               |               |
-|       [D212: Data Mining II](./D212/summary.md)       |                   |               |               |
-|   [D213: Advanced Data Analysis](./D213/summary.md)   |                   |               |               |
-| [D214: MS Data Analytics Capstone](./D214/summary.md) |                   |               |               |
+|        [D206: Data Cleaning](./D206/Summary.md)       |                   |               |               |
+|  [D207: Exploratory Data Analysis](./D207/Summary.md) |                   |               |               |
+|     [D208: Predictive Modeling](./D208/Summary.md)    |                   |               |               |
+|        [D209: Data Mining I](./D209/Summary.md)       |                   |               |               |
+| [D210: Representation & Reporting](./D210/Summary.md) |                   |               |               |
+|  [D211: Advanced Data Acquisition](./D211/Summary.md) |                   |               |               |
+|       [D212: Data Mining II](./D212/Summary.md)       |                   |               |               |
+|   [D213: Advanced Data Analysis](./D213/Summary.md)   |                   |               |               |
+| [D214: MS Data Analytics Capstone](./D214/Summary.md) |                   |               |               |
