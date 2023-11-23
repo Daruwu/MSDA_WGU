@@ -8,15 +8,15 @@ The following projects are from my time in the Master of Science in Data Analyti
 # Contents
 |                     Class Summary                     | 
 |:-----------------------------------------------------:|
-|        [D206: Data Cleaning](./D206/Summary.md)       |          
-|  [D207: Exploratory Data Analysis](./D207/Summary.md) |                
-|     [D208: Predictive Modeling](./D208/Summary.md)    |       
-|        [D209: Data Mining I](./D209/Summary.md)       |               
-| [D210: Representation & Reporting](./D210/Summary.md) |            
-|  [D211: Advanced Data Acquisition](./D211/Summary.md) |                 
-|       [D212: Data Mining II](./D212/Summary.md)       |            
-|   [D213: Advanced Data Analysis](./D213/Summary.md)   |          
-| [D214: MS Data Analytics Capstone](./D214/Summary.md) |
+|        [D206: Data Cleaning](./D206)       |          
+|  [D207: Exploratory Data Analysis](./D207) |                
+|     [D208: Predictive Modeling](./D208)    |       
+|        [D209: Data Mining I](./D209)       |               
+| [D210: Representation & Reporting](./D210) |            
+|  [D211: Advanced Data Acquisition](./D211) |                 
+|       [D212: Data Mining II](./D212)       |            
+|   [D213: Advanced Data Analysis](./D213)   |          
+| [D214: MS Data Analytics Capstone](./D214) |
 
 
 <h3 align="left">Connect with me:</h3>
